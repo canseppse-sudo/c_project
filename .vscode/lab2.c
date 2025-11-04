@@ -2,7 +2,7 @@
 
 int main(void){
     int age=16;
-    char name[50]="kanyaaphat jaturaphiphittapornchai";
+    char name[50]="kanyaphat jaturaphiphittapornchai";
     char gender ='f';
     float gap=3.13;
 
