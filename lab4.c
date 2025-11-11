@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 // find BMI
-// m/h^2
+// m/h^2    
 
 int main( void){
 
